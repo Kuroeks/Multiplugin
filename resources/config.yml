@@ -1,1 +1,7 @@
+# Name of the bow.
+bow-name: "&eTPbow"
 
+# Lore of the teleportation bow.
+bow-lore:
+  - "&7Fire this bow to teleport to wherever"
+  - "&7the arrow strikes."
