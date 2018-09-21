@@ -1,0 +1,9 @@
+name: Multiplugin
+main: Multiplugin\Main
+version: 1.0.1
+api: [3.0.0, 4.0.0]
+author: Ender_
+commands:
+ tpbow:
+  description: "Give a TPbow"
+  usage: "/tpbow"
